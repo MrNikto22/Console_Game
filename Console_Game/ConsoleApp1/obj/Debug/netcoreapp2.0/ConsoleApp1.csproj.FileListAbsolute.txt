@@ -1,0 +1,44 @@
+C:\Users\Anonymous\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Anonymous\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Anonymous\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Anonymous\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+C:\Users\Anonymous\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Anonymous\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Anonymous\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+C:\Users\Anonymous\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+C:\Users\Anonymous\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+C:\Users\Anonymous\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb
+C:\Users\Anonymous\Desktop\ConsoleApp1 - Copy\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+C:\Users\Anonymous\Desktop\ConsoleApp1 - Copy\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Anonymous\Desktop\ConsoleApp1 - Copy\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Anonymous\Desktop\ConsoleApp1 - Copy\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+C:\Users\Anonymous\Desktop\ConsoleApp1 - Copy\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+C:\Users\Anonymous\Desktop\ConsoleApp1 - Copy\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Anonymous\Desktop\ConsoleApp1 - Copy\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\ConsoleApp1 - Copy\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Desktop\ConsoleApp1 - Copy\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Anonymous\Desktop\ConsoleApp1 - Copy\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+C:\Users\Anonymous\Desktop\ConsoleApp1 - Copy\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb
+C:\Users\Anonymous\Desktop\Console_Game-master\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+C:\Users\Anonymous\Desktop\Console_Game-master\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Anonymous\Desktop\Console_Game-master\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Anonymous\Desktop\Console_Game-master\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+C:\Users\Anonymous\Desktop\Console_Game-master\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+C:\Users\Anonymous\Desktop\Console_Game-master\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Anonymous\Desktop\Console_Game-master\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\Console_Game-master\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Desktop\Console_Game-master\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Anonymous\Desktop\Console_Game-master\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+C:\Users\Anonymous\Desktop\Console_Game-master\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb
+C:\Users\Anonymous\Desktop\Console_Game\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+C:\Users\Anonymous\Desktop\Console_Game\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Anonymous\Desktop\Console_Game\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Anonymous\Desktop\Console_Game\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+C:\Users\Anonymous\Desktop\Console_Game\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+C:\Users\Anonymous\Desktop\Console_Game\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Anonymous\Desktop\Console_Game\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\Console_Game\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Desktop\Console_Game\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Anonymous\Desktop\Console_Game\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+C:\Users\Anonymous\Desktop\Console_Game\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb
